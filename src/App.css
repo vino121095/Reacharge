@@ -1,0 +1,145 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+  
+} */
+
+
+  /* CSS  */
+  body{
+    background-color: #fafafa !important;
+  }
+
+  h4{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700 !important;
+  }
+  p{
+    font-family: 'Nunito Sans', sans-serif !important;
+
+  }
+  .card{
+    border: none !important;
+background-color: white !important;
+box-shadow: 0 0 37px rgba(8, 21, 66, .05);
+
+
+  }
+  #tablecard{
+    box-shadow: 0 0 37px rgba(8, 21, 66, .05);
+background-color: white;
+/* border-radius: 120px !important; */
+border: 1px solid #e1e1e1;
+  }
+  thead th{
+    background-color: #e5f0fb !important;
+    border: none;
+    font-family: 'Nunito Sans', sans-serif !important;
+
+  }
+  .sidebar{
+    background-color: #1f2f3e;
+    height: 100vh;
+  }
+  .sidebar h4{
+    color: #0069d9;
+  }
+  .nav-link{
+    color: white !important;
+    font-family: 'Nunito Sans', sans-serif !important;
+
+  }
+  
+  #signcard{
+    padding: 40px 10px;
+  }
+  .card-header{
+border: none !important;
+background-color: white !important;
+  }
+  .card-body{
+    border: none !important;
+background-color: white !important;
+  }
+  .card-footer{
+    border: none !important;
+    background-color: white !important;
+  }
+  a{
+    text-decoration: none !important;
+    font-family: 'Nunito Sans', sans-serif !important;
+
+  }
+  label{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 500 !important;
+
+  }
+  input{
+    
+    font-family: 'Nunito Sans', sans-serif !important;
+padding: 10px 10px !important;
+
+  }
+  select{
+    font-family: 'Nunito Sans', sans-serif !important;
+padding: 10px 10px !important;
+  }
+  select::placeholder{
+    color: #7f7f7f !important;
+  font-family: 'Nunito Sans', sans-serif;
+
+  }
+  input::placeholder{
+    color: #7f7f7f !important;
+  font-family: 'Nunito Sans', sans-serif;
+
+  }
+.btn-primary{
+background-color: #0069d9 !important;
+font-family: 'Nunito Sans', sans-serif !important;
+border: none;
+
+}
+.btn-primary:hover{
+  background-color: #1f2f3e !important;
+  font-family: 'Nunito Sans', sans-serif;
+  border: 1px solid #1f2f3e !important;
+/* border: none; */
+}
+
+  /* CSS  */
